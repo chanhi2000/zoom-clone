@@ -6,11 +6,12 @@
     - Express js 추가 : `npm install express`
     - Nodemon 추가 : `npm install -g nodemon`
     - EJS 추가 : `npm install ejs`
+    - UUID 추가 : `npm install uuid`
 
 ## 계획 목록
  - ~~[v0.0.1][v0.0.1] 프로젝트 초기화~~
  - ~~[v0.0.2][v0.0.2] 첫 뷰 생성~~
- - Create a room id
+ - ~~[v0.0.3][v0.0.3] UUID를 사용한 룸 생성~~
  - Add the ability to view our video
  - Add ability to allow others to stream their video
  - Add styling
@@ -36,6 +37,7 @@
 
 [v0.0.1]: http://ginno.synology.me:3000/EDUCATION/zoone-clone/src/v0.0.1
 [v0.0.2]: http://ginno.synology.me:3000/EDUCATION/zoone-clone/src/v0.0.2
+[v0.0.3]: http://ginno.synology.me:3000/EDUCATION/zoone-clone/src/v0.0.3
 
 [vid]: https://www.youtube.com/watch?v=ZVznzY7EjuY
 [github]: https://github.com/CleverProgrammers/nodejs-zoom-clone
